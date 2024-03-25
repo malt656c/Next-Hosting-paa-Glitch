@@ -1,0 +1,10 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/api/webTextAPI/route": "app/api/webTextAPI/route.js",
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/WebTextGenerator/page": "app/WebTextGenerator/page.js",
+  "/LinkedInWingman/page": "app/LinkedInWingman/page.js",
+  "/manifest.webmanifest/route": "app/manifest.webmanifest/route.js",
+  "/RichResultsGenerator/page": "app/RichResultsGenerator/page.js"
+}

@@ -1,0 +1,57 @@
+{
+  "pages": {
+    "/_not-found": [
+      "static/chunks/webpack-6bd78dea7ce88f6d.js",
+      "static/chunks/fd9d1056-d5fdc208f69773d2.js",
+      "static/chunks/69-2e526afbacbae45e.js",
+      "static/chunks/main-app-4b275cc85d28de8d.js",
+      "static/chunks/app/_not-found-50093b54df3eff0f.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-6bd78dea7ce88f6d.js",
+      "static/chunks/fd9d1056-d5fdc208f69773d2.js",
+      "static/chunks/69-2e526afbacbae45e.js",
+      "static/chunks/main-app-4b275cc85d28de8d.js",
+      "static/chunks/250-cef05d0b49cf8a8d.js",
+      "static/css/59c71ddd34b6b441.css",
+      "static/chunks/app/layout-a7511915cefe522d.js"
+    ],
+    "/loading": [
+      "static/chunks/webpack-6bd78dea7ce88f6d.js",
+      "static/chunks/fd9d1056-d5fdc208f69773d2.js",
+      "static/chunks/69-2e526afbacbae45e.js",
+      "static/chunks/main-app-4b275cc85d28de8d.js",
+      "static/chunks/app/loading-7b217c74fb461b76.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-6bd78dea7ce88f6d.js",
+      "static/chunks/fd9d1056-d5fdc208f69773d2.js",
+      "static/chunks/69-2e526afbacbae45e.js",
+      "static/chunks/main-app-4b275cc85d28de8d.js",
+      "static/chunks/250-cef05d0b49cf8a8d.js",
+      "static/chunks/app/page-f0fef5d2806827f0.js"
+    ],
+    "/WebTextGenerator/page": [
+      "static/chunks/webpack-6bd78dea7ce88f6d.js",
+      "static/chunks/fd9d1056-d5fdc208f69773d2.js",
+      "static/chunks/69-2e526afbacbae45e.js",
+      "static/chunks/main-app-4b275cc85d28de8d.js",
+      "static/chunks/726-417ee67f6ac7ba5a.js",
+      "static/chunks/app/WebTextGenerator/page-8d61672b9d67b6f7.js"
+    ],
+    "/LinkedInWingman/page": [
+      "static/chunks/webpack-6bd78dea7ce88f6d.js",
+      "static/chunks/fd9d1056-d5fdc208f69773d2.js",
+      "static/chunks/69-2e526afbacbae45e.js",
+      "static/chunks/main-app-4b275cc85d28de8d.js",
+      "static/chunks/app/LinkedInWingman/page-bf0d2641a011addf.js"
+    ],
+    "/RichResultsGenerator/page": [
+      "static/chunks/webpack-6bd78dea7ce88f6d.js",
+      "static/chunks/fd9d1056-d5fdc208f69773d2.js",
+      "static/chunks/69-2e526afbacbae45e.js",
+      "static/chunks/main-app-4b275cc85d28de8d.js",
+      "static/chunks/app/RichResultsGenerator/page-dd3dc5357defb540.js"
+    ]
+  }
+}
